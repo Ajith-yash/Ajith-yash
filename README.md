@@ -7,6 +7,7 @@
 - ⚡ Fun fact: The first IoT device was a soda machine at Carnegie Mellon, which led to the development of the first widely used IoT device—ATMs
 - 🌱 I’m currently learning Python<br>
 - 💬 Ask me about Tech<br>
+  This is my website (https://ajithyash.my.canva.site/hi-i-am-ajith-yash)
 
 
 ### Languages Known
