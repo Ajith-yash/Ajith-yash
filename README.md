@@ -21,7 +21,5 @@
 
 
 ### 💻 Workspace Spec
-<img height="50" src="https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"/> 
-<img height="50"src="https://en.wikichip.org/w/images/thumb/a/a0/amd_ryzen_5_logo.png/1016px-amd_ryzen_5_logo.png"/> 
-<img height="50" src="https://iconape.com/wp-content/png_logo_vector/amd-radeon-graphics-logo.png"/>  
+<img height="230" src="https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"/><img height="230" width="230" src="https://en.wikichip.org/w/images/thumb/a/a0/amd_ryzen_5_logo.png/1016px-amd_ryzen_5_logo.png"/><img height="230" width="230" src="https://iconape.com/wp-content/png_logo_vector/amd-radeon-graphics-logo.png"/>
   
