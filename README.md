@@ -21,6 +21,13 @@
 
 
 ### 💻 Workspace Spec
-<img height="50" width="50" src="https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"/>
-<img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Intel_Core_i5_%2811th_generation%2C_logo%29.svg/768px-Intel_Core_i5_%2811th_generation%2C_logo%29.svg.png?20211018065945"/>  <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Iris_Xe_Graphics_%28logo%29.svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png"/>  
-  .svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png"/>  
+<img height="50" src="https://in-media.apjonlinecdn.com/logo/stores/1/LogoHPblue_1.svg"/> <img height="50"
+                                                                                            
+                                                 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff                                           
+                                                                                            
+                                                                                            
+                                                                                            
+                                                                                            
+                                                                                            
+                                      nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnsrc="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Intel_logo_2023.svg/768px-Intel_logo_2023.svg.png"/> 
+<img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Intel_Core_i5_%2811th_generation%2C_logo%29.svg/768px-Intel_Core_i5_%2811th_generation%2C_logo%29.svg.png?20211018065945"/>  <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Iris_Xe_Graphics_%28logo%29.svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png"/> 
