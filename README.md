@@ -23,4 +23,9 @@
 
 ### 💻 Workspace Spec
 <img height="230" src="https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"/><img height="230" width="230" src="https://en.wikichip.org/w/images/thumb/a/a0/amd_ryzen_5_logo.png/1016px-amd_ryzen_5_logo.png"/><img height="230" width="230" src="https://iconape.com/wp-content/png_logo_vector/amd-radeon-graphics-logo.png"/>
-  
+
+
+  ![Ajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajith&theme=dark&show_icons=true&&hide=issues,contribs)
+
+
+[![Ajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajith&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
