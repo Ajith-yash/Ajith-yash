@@ -21,7 +21,8 @@
 
 
 ### 💻 Workspace Spec
-<img height="50" src=![image](https://github.com/user-attachments/assets/b8d1220a-2af8-4878-a3ff-ec5a9ad2fe4c)
-src=![image](https://github.com/user-attachments/assets/b8d1220a-2af8-4878-a3ff-ec5a9ad2fe4c)
+<img height="50" src=![image](https://github.com/user-attachments/assets/ef5981d7-db0e-4c65-b39d-6a03bb64943f)
+src=![image](https://github.com/user-attachments/assets/1bbdd8cd-987d-49ac-b573-c3377a546a73)
+
 <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Intel_Core_i5_%2811th_generation%2C_logo%29.svg/768px-Intel_Core_i5_%2811th_generation%2C_logo%29.svg.png?20211018065945"/>  <img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Intel_Iris_Xe_Graphics_%28logo%29.svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png"/>  
   .svg/330px-Intel_Iris_Xe_Graphics_%28logo%29.svg.png"/>  
