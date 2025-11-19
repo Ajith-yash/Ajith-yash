@@ -1,6 +1,37 @@
+## Connect with Me
+
+- 🔭 **App**: Explore my [instagram](https://www.instagram.com/ajith_yash11/).
+- 🧑🏻‍💻 **Support**: Consider supporting me on [instagram](https://www.instagram.com/ajith_yash11/).  
+- 🌱 **Learning**: Currently enhancing my skills in **Frontend Development/cricket**.  
+- 💬 **Ask me about**: Anything tech-related!  
+- 📫 **Contact**:
+  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ajith_yash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ajith_yash11/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharadevi11@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat-square&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white)
+## IDEs and Tools I Use
+![GITHUB](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![CHATGPT](https://img.shields.io/badge/ChatGPT-0A0F0D?style=for-the-badge&logo=openai&logoColor=00FFCC)
+![GITHUB COPILOT](https://img.shields.io/badge/GitHub%20Copilot-1A1A1A?style=for-the-badge&logo=githubcopilot&logoColor=00A9FF)
+![CANVA](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![API](https://img.shields.io/badge/API-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0A0A0A?style=for-the-badge&logo=github&logoColor=white)
+![GEMINI](https://img.shields.io/badge/Gemini-0F1418?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8)
+![TECHIESMS](https://img.shields.io/badge/Techiesms-0A0A0A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAATlBMVEVHcExHwfFGwfBHwfBGwfFJwvFGwfFHwfFGwfBGwfFGwfFGwfBGwfFGwfBGwfA2vvDj9f3I6vqM1fVGwfD///9GwfC65flVxfJhyfJlyvJ+lgCRAAAAFnRSTlMAPadLlgq3Hnzbb/9UxvX/////Yf/OoY9A7wAAALBJREFUeAHN0FkOwyAQA9CwlSSGTHba+1+0hCoMWfpb1X/oCXnk6l8ipPiOSqvD2zw4srKl1E2LIq6pTUaProUyjB18RqsjNh5EO2pbdtYAqB/GhNPxHJtwngdKaA2bW9B+cA0BgINXGSU2pH6OWWlDyGISfUQtqvNBiJ3PcDlI6L2TAP7JnQn714hTp/I7RqZ8La+74RBxjDiZaycoBKLbTs5tZ4GLK7cVJVre9ud5A5Q1DuFS5b60AAAAAElFTkSuQmCC&logoColor=00CFFF)
+![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=F96854)
+![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Arduino](https://img.shields.io/badge/Arduino-0B2A2A?style=for-the-badge&logo=arduino&logoColor=00FFFF)
+![WIX Studio](https://img.shields.io/badge/Wix%20Studio-0F0F0F?style=for-the-badge&logo=wix&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=40C4FF)
+![Google](https://img.shields.io/badge/Google-0F0F0F?style=for-the-badge&logo=google&logoColor=FFFFFF)
+![PlayStation Network](https://img.shields.io/badge/PSN-001F3F?style=for-the-badge&logo=playstation&logoColor=FFFFFF)
+![Godot Engine](https://img.shields.io/badge/Godot-1A1A1A?style=for-the-badge&logo=godot-engine&logoColor=66CCFF)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-111111?style=for-the-badge&logo=epicgames&logoColor=FFFFFF)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-240012?style=for-the-badge&logo=raspberry-pi&logoColor=FF0066)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-001F33?style=for-the-badge&logo=home-assistant&logoColor=41BDF5)
+![Xbox](https://img.shields.io/badge/Xbox-003300?style=for-the-badge&logo=xbox&logoColor=00FF00)
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-000000?style=for-the-badge&logo=crunchyroll&logoColor=F47521)
+
+
