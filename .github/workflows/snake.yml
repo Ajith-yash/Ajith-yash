@@ -2,20 +2,22 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+      - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+      branches:
+        - main
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Generate snake graph
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: Ajith-yash
@@ -24,8 +26,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=dark
 
       - name: Upload files to GitHub Pages
-        uses: ppodds/upload-to-github-pages-action@v2.0.0
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          folder: dist
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
