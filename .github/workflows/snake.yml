@@ -1,8 +1,10 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -10,12 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ajith-yash
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Upload to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
