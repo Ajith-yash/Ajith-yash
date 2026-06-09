@@ -24,15 +24,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-0B2A2A?style=for-the-badge&logo=arduino&logoColor=00FFFF)
 ![WIX Studio](https://img.shields.io/badge/Wix%20Studio-0F0F0F?style=for-the-badge&logo=wix&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=40C4FF)
-![Google](https://img.shields.io/badge/Google-0F0F0F?style=for-the-badge&logo=google&logoColor=FFFFFF)
-![PlayStation Network](https://img.shields.io/badge/PSN-001F3F?style=for-the-badge&logo=playstation&logoColor=FFFFFF)
 ![Godot Engine](https://img.shields.io/badge/Godot-1A1A1A?style=for-the-badge&logo=godot-engine&logoColor=66CCFF)
-![Epic Games](https://img.shields.io/badge/Epic%20Games-111111?style=for-the-badge&logo=epicgames&logoColor=FFFFFF)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=FFFFFF)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-240012?style=for-the-badge&logo=raspberry-pi&logoColor=FF0066)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-001F33?style=for-the-badge&logo=home-assistant&logoColor=41BDF5)
-![Xbox](https://img.shields.io/badge/Xbox-003300?style=for-the-badge&logo=xbox&logoColor=00FF00)
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-000000?style=for-the-badge&logo=crunchyroll&logoColor=F47521)
 
 ## Languages Known
 ![C](https://img.shields.io/badge/c-87CEEB.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-87CEEB.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-87CEEB.svg?style=for-the-badge&logo=python&logoColor=#33eef5) 
